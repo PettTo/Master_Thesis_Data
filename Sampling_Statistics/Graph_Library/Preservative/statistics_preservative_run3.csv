@@ -1,0 +1,10 @@
+Version,Runtime Preanalysis in s,Runtime IncLing in s,Runtime total,Configurations,Newly Calcualted Configurations,Efficiency
+model00001.xml,0.061,2.001,2.062,6,6,2.9098
+model00002.xml,0.102,2.001,2.103,11,5,5.2306
+model00003.xml,0.116,2,2.116,14,3,6.6163
+model00004.xml,0.141,4.001,4.142,21,7,5.07
+model00005.xml,0.287,2,2.287,18,4,7.8706
+model00006.xml,0.256,4.001,4.257,25,7,5.8727
+model00007.xml,0.474,6.001,6.475,56,32,8.6486
+model00008.xml,0.869,8.001,8.87,68,12,7.6663
+model00009.xml,1.083,8.002,9.085,65,9,7.1547
